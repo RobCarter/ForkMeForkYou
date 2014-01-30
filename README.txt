@@ -39,6 +39,6 @@ Version: 1c4cd3616488b8624a9b96fbd9edd5c0932497c4
 
 Version: 62167875b51af31cb0a995efc64751e359b2c29a
 	README.txt-
-		The six o' clock alarm would never ring...
+		You will be using this repository soon...
 
 
